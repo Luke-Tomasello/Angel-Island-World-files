@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<UndeadInvasion version="1">
+  <FactionScalar>105</FactionScalar>
+  <PetDamageScalar>66</PetDamageScalar>
+  <SummonDamageScalar>100</SummonDamageScalar>
+  <BardDamageScalar>100</BardDamageScalar>
+  <ArtifactChance>0.15</ArtifactChance>
+  <ArtifactMessage>For your valor in combating the Undead horde, a special artifact has been bestowed on you.</ArtifactMessage>
+  <LootChance>2</LootChance>
+  <FameScaling>True</FameScaling>
+  <PartySharing>True</PartySharing>
+</UndeadInvasion>

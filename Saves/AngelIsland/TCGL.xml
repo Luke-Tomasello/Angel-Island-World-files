@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TCGL Count="7">
+	<TCEntry>
+		<LineCount>2</LineCount>
+		<Line0>The nefarious bandit Burhan was last seen near 41� 39'S, 100� 15'E in the pirate stronghold at Buccaneer's Den.. He is not to be trusted.</Line0>
+		<Line1>Do what you will with him, but just see that he does not enter our fair city.</Line1>
+		<ExpireTime>2024-07-29T23:12:54.5645834Z</ExpireTime>
+		<PosterSerial>0xFFFFFFFF</PosterSerial>
+	</TCEntry>
+	<TCEntry>
+		<LineCount>2</LineCount>
+		<Line0>The treasure hunter Ivan was last seen somewhere outside of Britain and is said to be in need of assistance.</Line0>
+		<Line1>Ivan was last seen near 17� 50'N, 8� 5'E. Please see that Ivan receives whatever help he needs.</Line1>
+		<ExpireTime>2024-07-29T23:12:54.5662199Z</ExpireTime>
+		<PosterSerial>0xFFFFFFFF</PosterSerial>
+	</TCEntry>
+	<TCEntry>
+		<LineCount>2</LineCount>
+		<Line0>The vile bandit Anke was last seen near 155� 23'S, 120� 47'E in the brigand stronghold.. She is not to be trusted.</Line0>
+		<Line1>Do what you will with her, but just see that she does not enter our fair city.</Line1>
+		<ExpireTime>2024-07-29T23:12:54.5662561Z</ExpireTime>
+		<PosterSerial>0xFFFFFFFF</PosterSerial>
+	</TCEntry>
+	<TCEntry>
+		<LineCount>2</LineCount>
+		<Line0>The treasure hunter Marcy was last seen somewhere outside of Britain and is said to be in need of assistance.</Line0>
+		<Line1>Marcy was last seen near 110� 33'S, 10� 7'W. Please see that Marcy receives whatever help she needs.</Line1>
+		<ExpireTime>2024-07-29T23:12:54.5662632Z</ExpireTime>
+		<PosterSerial>0xFFFFFFFF</PosterSerial>
+	</TCEntry>
+	<TCEntry>
+		<LineCount>2</LineCount>
+		<Line0>The merchant Bryan was last seen somewhere outside of Britain and is said to be bringing us some of his finest wares.</Line0>
+		<Line1>Bryan was last seen near 74� 0'N, 113� 16'E in the Militia stronghold in Vesper. Please see that Bryan arrives safely.</Line1>
+		<ExpireTime>2024-07-29T23:13:55.2661475Z</ExpireTime>
+		<PosterSerial>0xFFFFFFFF</PosterSerial>
+	</TCEntry>
+	<TCEntry>
+		<LineCount>2</LineCount>
+		<Line0>The treasure hunter Murdock was last seen somewhere outside of Britain and is said to be in need of assistance.</Line0>
+		<Line1>Murdock was last seen near 24� 20'S, 25� 35'W. Please see that Murdock receives whatever help he needs.</Line1>
+		<ExpireTime>2024-07-29T23:13:55.2661767Z</ExpireTime>
+		<PosterSerial>0xFFFFFFFF</PosterSerial>
+	</TCEntry>
+	<TCEntry>
+		<LineCount>2</LineCount>
+		<Line0>The treasure hunter Theron was last seen somewhere outside of Britain and is said to be in need of assistance.</Line0>
+		<Line1>Theron was last seen near 98� 31'N, 172� 58'W. Please see that Theron receives whatever help he needs.</Line1>
+		<ExpireTime>2024-07-29T23:13:55.2661834Z</ExpireTime>
+		<PosterSerial>0xFFFFFFFF</PosterSerial>
+	</TCEntry>
+</TCGL>

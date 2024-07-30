@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root count="5">
+	<ClientException>
+		<ip>192.168.1.67</ip>
+	</ClientException>
+	<ClientException>
+		<ip>90.187.112.29</ip>
+	</ClientException>
+	<ClientException>
+		<ip>70.174.80.28</ip>
+	</ClientException>
+	<ClientException>
+		<ip>70.115.53.101</ip>
+	</ClientException>
+	<ClientException>
+		<ip>96.253.107.161</ip>
+	</ClientException>
+</root>
