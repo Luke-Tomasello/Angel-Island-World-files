@@ -1,2 +1,6 @@
 # Angel-Island-World-files
 This 'world save' contains the fully spawned Angel Island shard as of July 2024. OSI Publish 15 creature spawn, as well as Angel Island's custom housing preview area.
+
+# Discord
+
+https://discord.gg/GXcR2DsSnb
